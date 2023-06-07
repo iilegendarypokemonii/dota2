@@ -4,22 +4,23 @@ A collection of screenshots of good wardplacements in patch 7.33c, made in june 
 ## Radiant team wards
 For when you are playing as radiant. Mostly covers offensive wards, but also some defensive ones for in the laning stage.
 ### Part 1. Laning stage (<10 min)
-1. Above dire top tier 1 tower![1](https://i.postimg.cc/4xGvwPMq/01.png)
+1. Above dire top tier 1 tower
+![1](https://i.postimg.cc/4xGvwPMq/01.png)
 *Lets you dive the dire top tier 1 tower and shows the easy camp. Good for when the carry retreats to the jungle*
 
-2. Top highground jungle between tier 1 and 2
+3. Top highground jungle between tier 1 and 2
 ![2](https://i.postimg.cc/nLc4fzn1/02.png)
 *Shows the entrance to the highground jungle the safelane carry might take. When switching between the mines and this jungle. Also covers couriers for during the laning phase and shows people walking to the easy camp if placed right*
 
-3. Dire mines
+4. Dire mines
 ![3](https://i.postimg.cc/k4LKSvKj/03.png)
 *Covers 2 camps from the mines outside of sentry range from the cliff*
 
-4. Top river rune
+5. Top river rune
 ![4](https://i.postimg.cc/7h77nJNq/04.png)
 *Covers the top rune and the highground jungle entrance. Should spot all mid rotations to top*
 
-5. Bottom bounty rune and bottom lane entrance
+6. Bottom bounty rune and bottom lane entrance
 ![5](https://i.postimg.cc/h479BNRN/05.png)
 *Shows the bounty rune and covers a mid gank. The hill ward doesn't see the bounty and gets dewarded easily. Use this ward to countergank the mid laner when he shows up*
 
@@ -73,5 +74,5 @@ For when you are playing as radiant. Mostly covers offensive wards, but also som
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNjc3MTM2NCw4NzA2NzE3MDBdfQ==
+eyJoaXN0b3J5IjpbMTk2NDg4ODQzMiw4NzA2NzE3MDBdfQ==
 -->
